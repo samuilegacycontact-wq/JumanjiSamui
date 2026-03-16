@@ -1,0 +1,46 @@
+{
+  "nav": {
+    "tours": "Tours",
+    "howItWorks": "How It Works",
+    "whyJumanji": "Why Jumanji",
+    "messageUs": "Message us"
+  },
+  "hero": {
+    "location": "KOH SAMUI · THAILAND",
+    "brand": "JUMANJI SAMUI",
+    "line1": "We listen.",
+    "line2": "We source.",
+    "line3": "We discount.",
+    "line4": "Seamless.",
+    "cta": "Plan my trip on WhatsApp",
+    "subtext": "No booking fees · Pay operators directly · Last-minute welcome"
+  },
+  "whatWeDo": {
+    "heading1": "Not a booking site. Not a tour operator.",
+    "heading2": "Just someone who knows the island.",
+    "body1": "Most tour websites sell you a package, take a cut, and hand you a PDF. That's not this.",
+    "body2": "This is a personal concierge service — one contact on the island who knows every operator, every price, and every deal worth having. Tell us what you want. We source the best options, negotiate better rates than you'd find yourself, and coordinate everything. You pay the operator directly on the day in cash. No prepayment. No card details. No risk.",
+    "body3": "And if you want more than one activity? We bundle them. The more you do through us, the more you save.",
+    "personalVoice": "\"I've lived on Samui for years. I know every operator by name.\"",
+    "feature1Title": "We find the best price",
+    "feature1Body": "We compare operators and get you rates below what they publish publicly",
+    "feature2Title": "You pay nothing upfront",
+    "feature2Body": "Cash to the operator on the day. Zero financial risk, zero deposit",
+    "feature3Title": "One contact for everything",
+    "feature3Body": "Instead of chasing six different WhatsApps, you message us once"
+  },
+  "howItWorks": {
+    "step1Title": "Tell us what you want",
+    "step1Body": "Message us on WhatsApp. Who's coming, how many days, what you're after — adrenaline, relaxation, family, romance. We work with all of it.",
+    "step2Title": "We handle everything",
+    "step2Body": "We match you to the right operators, negotiate the rates, and build your plan. Multiple activities? We'll put a package together that's cheaper than booking each one separately.",
+    "step3Title": "Show up and enjoy",
+    "step3Body": "We connect you to the operator. You pay them directly in cash on the day. No prepayment. No booking fees. No paperwork. If anything changes, we sort it.",
+    "cta": "Get started on WhatsApp"
+  },
+  "footer": {
+    "tagline": "Koh Samui, Thailand",
+    "domain": "JumanjiSamui.com",
+    "disclaimer": "All activities are delivered by licensed, independent operators. Jumanji is a marketing and referral service. Guests pay operators directly at the time of the activity."
+  }
+}

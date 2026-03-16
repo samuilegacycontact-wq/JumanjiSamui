@@ -1,0 +1,18 @@
+<!--
+  TODO: Replace this file with real Jumanji logo (SVG or PNG with transparency)
+  Concept: ancient banyan tree, large and spreading, with a small boy standing beneath it.
+  "Little boy lost in the jungle."
+  Until the real logo is ready, the site renders the JUMANJI wordmark in Cormorant Garamond.
+-->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 60" fill="none">
+  <text
+    x="100"
+    y="44"
+    font-family="Georgia, serif"
+    font-size="32"
+    font-weight="700"
+    letter-spacing="8"
+    text-anchor="middle"
+    fill="#FAF6F0"
+  >JUMANJI</text>
+</svg>

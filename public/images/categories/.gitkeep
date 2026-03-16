@@ -1,0 +1,16 @@
+# TODO: Add category card photos here before deployment.
+# Filename must match the category ID in src/lib/categories.ts
+#
+# Required files (JPG, 900×1200px minimum, atmospheric dark-toned photography):
+#   atv.jpg          — ATV quad bikes in jungle
+#   boat.jpg         — Boat on turquoise water / island hopping
+#   cooking.jpg      — Thai cooking class kitchen
+#   muaythai.jpg     — Muay Thai training gym
+#   diving.jpg       — Underwater / snorkelling
+#   yoga.jpg         — Yoga on beach or hillside
+#   elephant.jpg     — Elephant sanctuary (ethical)
+#   zipline.jpg      — Zipline through jungle canopy
+#   fishing.jpg      — Fishing boat at sea
+#   safari.jpg       — 4x4 jungle track
+#   watersports.jpg  — Jet ski / beach water sports
+#   cultural.jpg     — Temple or local market (for when operator is confirmed)
