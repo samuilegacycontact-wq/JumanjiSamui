@@ -1,5 +1,4 @@
-// TODO: Find-replace all instances of 66XXXXXXXXX with real WhatsApp number before going live
-export const WHATSAPP_NUMBER = '66XXXXXXXXX'
+export const WHATSAPP_NUMBER = '66637150556'
 
 export function buildWhatsAppUrl(message: string, number = WHATSAPP_NUMBER): string {
   const encoded = encodeURIComponent(message)
